@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository is part of the Project-Based Internship Program by ID/X Partners X Rakamin Academy. It demonstrates the real-world implementation of data science competencies through a banking case study. The main objective is to extract actionable insights from customer data to improve marketing campaign effectiveness, specifically by identifying factors that influence customer subscription to term deposits.
+This repository is part of the Project-Based Internship Program by ID/X Partners X [Rakamin Academy](https://www.rakamin.com/academy). It demonstrates the real-world implementation of data science competencies through a banking case study. The main objective is to extract actionable insights from customer data to improve marketing campaign effectiveness, specifically by identifying factors that influence customer subscription to term deposits.
 
 ## Key Features
 
